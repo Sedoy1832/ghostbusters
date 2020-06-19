@@ -444,7 +444,7 @@ body {
     height: 80px;
   }
   .m-menu {
-    width:auto;
+    width:560px;
     display: none;
     flex-direction: column;
     position: fixed;
