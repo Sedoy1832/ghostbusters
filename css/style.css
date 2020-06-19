@@ -416,6 +416,9 @@ body {
   .about-film {
     margin-bottom: 30px;
   }
+  .film-text{
+  padding-bottom: 40px;
+  }
   .about-text-bold {
     display: block;
     margin-bottom: 10px;
