@@ -560,7 +560,7 @@ body {
   .about-film {
     flex-wrap: wrap;
     flex-direction: column;
-    margin-bottom: 40px;
+    padding-bottom: 40px;
   }
   .about-text-bold {
     display: inline-block;
