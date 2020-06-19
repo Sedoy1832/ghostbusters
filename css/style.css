@@ -440,11 +440,10 @@ body {
     max-width: 560px;
   }
   .header {
-    width: auto;
     height: 80px;
   }
   .m-menu {
-    width:560px;
+    width:auto;
     display: none;
     flex-direction: column;
     position: fixed;
