@@ -570,7 +570,7 @@ body {
   }
   .film-text {
     order: 1;
-    margin-bottom: 0;
+    margin-bottom: 40px;
   }
   .tabs {
     margin-bottom: 35px;
